@@ -8868,8 +8868,7 @@ h1, h2, h3, h4, h5,
     transition: all 0.3s ease; }
 .staff .text .position {
     text-transform: uppercase;
-    color: black;
-    color: #31de79;
+    color: #F47920;
     display: block;
     letter-spacing: 1px; }
 .staff .text .faded {
@@ -8893,7 +8892,7 @@ h1, h2, h3, h4, h5,
     display: inline-block; }
 
 .ftco-services .nav-link-wrap {
-    background: #31de79; }
+    background: #F47920; }
 @media (min-width: 768px) {
     .ftco-services .nav-link-wrap {
         margin-bottom: -60px;
@@ -8956,16 +8955,16 @@ h1, h2, h3, h4, h5,
     font-size: 100px;
     color: #000000;
     line-height: 1.2;
-    background: #9ff669;
-    background: -moz-linear-gradient(-45deg, #9ff669 0%, #31de79 100%);
-    background: -webkit-gradient(left top, right bottom, color-stop(0%, #9ff669), color-stop(100%, #31de79));
-    background: -webkit-linear-gradient(-45deg, #9ff669 0%, #31de79 100%);
-    background: -o-linear-gradient(-45deg, #9ff669 0%, #31de79 100%);
-    background: -ms-linear-gradient(-45deg, #9ff669 0%, #31de79 100%);
-    background: -webkit-linear-gradient(315deg, #9ff669 0%, #31de79 100%);
-    background: -o-linear-gradient(315deg, #9ff669 0%, #31de79 100%);
-    background: linear-gradient(135deg, #9ff669 0%, #31de79 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#9ff669', endColorstr='#31de79', GradientType=1 );
+    background: #005883;
+    background: -moz-linear-gradient(-45deg, #005883 0%, #005883 100%);
+    background: -webkit-gradient(left top, right bottom, color-stop(0%, #005883), color-stop(100%, #005883));
+    background: -webkit-linear-gradient(-45deg, #005883 0%, #005883 100%);
+    background: -o-linear-gradient(-45deg, #005883 0%, #005883 100%);
+    background: -ms-linear-gradient(-45deg, #005883 0%, #005883 100%);
+    background: -webkit-linear-gradient(315deg, #005883 0%, #005883 100%);
+    background: -o-linear-gradient(315deg, #005883 0%, #005883 100%);
+    background: linear-gradient(135deg, #005883 0%, #005883 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#005883', endColorstr='#005883', GradientType=1 );
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent; }
 
@@ -9231,7 +9230,7 @@ textarea.form-control {
 
 .testimony-section {
     position: relative;
-    background: #31de79; }
+    background: #F0B429; }
 .testimony-section .overlay {
     position: absolute;
     top: 0;
